@@ -1,0 +1,13 @@
+Notater for RØD-SVART TRÆR
+
++ Variasjon av binære søketrær.
++ Forsikrer oss om at høyden på søketreet er O(log n)
++ Forsikrer oss om at operasjonene vil ta O(log n).
++ Hver node i treet har en atributt som gir oss en farge på noden (svart, rød)
++ Fargene brukes til å holde orden på strukturene i søketreet.
++ Alle blad noder er tomme og svarte,
+
++ Man må ha samme mengden med sorte noder til nil over hele treet.
+
+
+
